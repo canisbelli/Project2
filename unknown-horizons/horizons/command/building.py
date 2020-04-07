@@ -144,6 +144,7 @@ class Build(Command):
 
 		# building is now officially built and existent
 		building.start()
+		horizons.globals.fife.play_sound('effects', 'content/audio/sounds/buildingSuccess.ogg')
 
 		# unload the remaining resources on the human player ship if we just founded a new settlement
 		from horizons.world.player import HumanPlayer
