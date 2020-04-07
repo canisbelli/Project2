@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Container name="loadingscreen">
+	<Container name="loading_box" size="250,137">
+		<Icon image="content/gui/images/background/mainmenu/loading.png" />
+		<Label name="loading_label" text="Loading…" font="large_load"
+			max_size="250,50" min_size="150,50" position="25,50" />
+		<ProgressBar name="loading_box_progress" max_size="200,12" position="25,110" />
+	</Container>
+
+	<Container name="quote_area" size="1920,207">
+		<Icon image="content/gui/images/background/mainmenu/quotearea.png" />
+		<Label name="quote_type_label" font="headline_light" />
+		<Label name="quote_label" font="default_load"
+			max_size="315,75" min_size="315,75" wrap_text="1" />
+		<Label name="loading_stage" font="default_load" />
+	</Container>
+</Container>

@@ -1,0 +1,191 @@
+# Korean translations for Unknown Horizons package.
+# Copyright (C) 2017 The Unknown Horizons Team
+# This file is distributed under the same license as the Unknown Horizons package.
+# Automatically generated, 2013.
+msgid ""
+msgstr ""
+"Project-Id-Version: Unknown Horizons d0fc091\n"
+"Report-Msgid-Bugs-To: team@lists.unknown-horizons.org\n"
+"POT-Creation-Date: 2016-08-25 19:10+0200\n"
+"PO-Revision-Date: 2017-09-03 16:47+0000\n"
+"Last-Translator: k ks <kmshts@naver.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/uh/the-"
+"unknown/ko/>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 2.17-dev\n"
+
+#. scenario difficulty
+msgid "easy"
+msgstr "쉬움"
+
+#. scenario description
+msgid ""
+"You are the captain of a ship under the flag of England in 1740. You and "
+"your crew were on the way to a colony of England in the Pacific Ocean.\n"
+"Everything went fine until you came into a storm…"
+msgstr ""
+"1740년, 당신은 영국령 배의 선장입니다. 당신과 승무원들은  태평양에 있는 영국의 식민지로 가고 있었습니다.\n"
+"폭풍이 몰아치기 전 까지는 모든것이 순조롭게 진행되었습니다…"
+
+#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
+msgid "20th November 1740"
+msgstr "1740년 11월 20일"
+
+#. This is the text body of a logbook page.
+msgid ""
+"After four days the storm finally fades and we can take a rest. But we only "
+"have little food left and our ship is in a bad shape. The navigational "
+"instruments and sea charts are lost."
+msgstr ""
+"4일후, 마침내 폭풍우는 사라지고 우리는 휴식을 취할 수 있었다. 하지만 우리의 식량은 거의 남아 있지 않았고 배는 형편없게 되었다. "
+"항해도구와 바다 표가 유실되었다."
+
+#. This is the text body of a logbook page.
+msgid ""
+"We have to come ashore soon. One of my jacks saw some birds hunting for "
+"fish, so land can't be far. Fortunately we always have some tools and boards "
+"onboard, so we can build some basic shelter."
+msgstr ""
+"조만간 우리는 해변에 도착할것이다. 선원중 하나가 물고기를 사냥하는 새들을 보았다고하니, 육지는 멀리 있지 않은것 같다. 다행히도 "
+"우리에겐 항상 약간의 도구와 판자들을 가지고 있어서, 기본적인 피난처를 만들수 있다."
+
+#. This is the text body of a logbook page.
+msgid ""
+"Task:\n"
+"Find land and build a port."
+msgstr ""
+"임무:\n"
+"육지를 찾아 항구를 건설하십시오."
+
+#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
+msgid "22nd November 1740"
+msgstr "1740년 11월 22일"
+
+#. This is the text body of a logbook page.
+msgid ""
+"The port is built and a new hope arises. I am still worried about the next "
+"days… we are running out of food and lack basic building material."
+msgstr ""
+"항구가 건설되었고 새로운 희망이 생겼다. 나는 아직도 다음날들에 대해 걱정하고 있다… 우리는 식량과 기본적인 건축 자재가 부족하다."
+
+#. This is the text body of a logbook page.
+msgid ""
+"We need to secure our basic needs to keep us alive. It is time to send "
+"people gathering food and lumber so that we can survive and build some "
+"shelter."
+msgstr ""
+"우리는 생존하기위해 필요한 기본적인것들을 확보해야 한다. 우리가 생존하고 피난처를 건설 할 수 있도록 식량과 목재를 모으는 사람들을 "
+"보내야 할때가 왔다."
+
+#. This is the text body of a logbook page.
+msgid ""
+"Task:\n"
+"Build at least one of each:\n"
+"* Lumberjack\n"
+"* Fisher\n"
+"* Hunter\n"
+"Collect 5 food and 5 boards."
+msgstr ""
+"임무:\n"
+"다음중 최소 하나씩은 건설하십시오:\n"
+"* 나무꾼의 천막\n"
+"* 낚시꾼의 천막\n"
+"* 사냥꾼의 천막\n"
+"5개의 식량과 5개의 판자를 수집하십시오."
+
+#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
+msgid "25th November 1740"
+msgstr "1740년 11월 25일"
+
+#. This is the text body of a logbook page.
+msgid ""
+"We have secured our basic needs of food and gathered some wood to continue "
+"the growth of our new settlement. Our people demand a place to live and "
+"exchange goods for their everyday needs."
+msgstr ""
+"우리는 기본적인 식량을 확보했고 새 정착지의 성장을 지속하기위해 약간을 목재들을 모았다. 사람들은 살수있는 곳과 일상 생활용품을 교환할 "
+"수 있는 곳을 요구했다."
+
+#. This is the text body of a logbook page.
+msgid ""
+"It is time to build some tents to live in and a small main square to supply "
+"our citizens with goods."
+msgstr "이젠 거주할 천막과 시민들에게 물품을 공급할 작은 중앙광장을 지어야할 때입니다."
+
+#. This is the text body of a logbook page.
+msgid ""
+"Task:\n"
+"Build a Main Square and at least 10 Tents."
+msgstr ""
+"임무:\n"
+"중앙광장과 최소 10개 이상의 천막을 건설하십시오."
+
+#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
+msgid "1st December 1740"
+msgstr "1740년 12월 1일"
+
+#. This is the text body of a logbook page.
+msgid ""
+"Finally we have enough to eat and a place to live again. My tent is not very "
+"comfortable but it keeps me dry and I have the feeling of having a roof over "
+"my head at night."
+msgstr ""
+"마침내 우리는 먹을 것과 다시 살 수 있는 곳이 충분해졌다. 내 천막은 썩 편안하지는 않지만 비를 피할수있었고 밤마다 내 머리 위에 "
+"지붕이 있음을 느끼게 해 주었다."
+
+#. This is the text body of a logbook page.
+msgid ""
+"I have been researching the stars at night, but without my sea charts and "
+"instruments their meaning remains unknown. I have the feeling we will be "
+"stuck here for a while, so we'll have to make the best of situation.\n"
+"We can only try to to build up a civilisation and find a way home…"
+msgstr ""
+"나는 밤마다 별자리를 조사해왔지만 해도와 측량기가 없어서 그 의미를 알수 없었다. 나는 당분간 이곳에 갇혀있을것이라는 느낌이들었다. "
+"그러니까 우리는 최선을 다해야 한다.\n"
+"우리는 문명을 건설하면서 집으로 가는 길도 찾도록 노력해야한다…"
+
+#. This is the text body of a logbook page.
+msgid ""
+"Task:\n"
+"Grow the village until you have at least 250 inhabitants and a positive "
+"balance."
+msgstr ""
+"임무:\n"
+"최소 250명 이상의 주민과 이익이 흑자가 되도록 마을을 성장시키십시오."
+
+#. This is a logbook page heading. Space is VERY short, please only translate to strings that fit (roughly 30 characters max).
+msgid "27th August 1745"
+msgstr "1745년 8월 27일"
+
+#. This is the text body of a logbook page.
+msgid ""
+"Our village is doing well, the city has grown to over 250 inhabitants. I "
+"have started getting used to my new home, but this island is too small to "
+"stay here forever."
+msgstr ""
+"우리 마을은 잘 운영되고 있고, 도시는 주민들이 250명 이상으로 성장 했습니다. "
+"내 새 집에 익숙해 시작하지만, 이 섬은 영원히 머물기엔 너무 작습니다."
+
+#. This is the text body of a logbook page.
+msgid ""
+"We should load our ship and move out to find a bigger island offering room "
+"and resources for my people. I have created a basic navigational map again, "
+"using the stars I see at night. It is not perfect, but I hope it will "
+"suffice to return here."
+msgstr ""
+"우리는 사람들을 위해 집과 자원을 제공할 더큰 섬을 찾기위해 배를 싯고 출발해야 한다. 나는 밤에 볼수있는 별자리를 이용하여 기본적인 "
+"항해도를 다시 만들었다. 그것은 완벽하지 않지만, 나는 이곳으로 되돌아 오는데 충분할것이라 희망한다."
+
+#. This is the text body of a logbook page.
+msgid ""
+"Task:\n"
+"Contact the Unknown Horizons Team (www.unknown-horizons.org) and find out "
+"how you can contribute to making this scenario longer and better!"
+msgstr ""
+"임무:\n"
+"알 수없는 지평선 팀 (www.unknown-horizons.org)에 연락하여 이 시나리오를 더 길고 잘 만들기 위해 당신이 어떻게 "
+"기여할 수 있는지 알아보십시오!"
