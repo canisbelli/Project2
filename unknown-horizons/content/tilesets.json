@@ -1,0 +1,782 @@
+{
+ "ts_beach-shallow0": {
+  "curve_in": {
+   "45": {
+    "content/gfx/base/moderate/ts_beach-shallow0/curve_in/45/0.png": [
+     0.5,
+     0,
+     0,
+     0,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_beach-shallow0/curve_in/135/0.png": [
+     0.5,
+     0,
+     64,
+     0,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_beach-shallow0/curve_in/225/0.png": [
+     0.5,
+     0,
+     128,
+     0,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_beach-shallow0/curve_in/315/0.png": [
+     0.5,
+     0,
+     192,
+     0,
+     64,
+     64
+    ]
+   }
+  },
+  "curve_out": {
+   "45": {
+    "content/gfx/base/moderate/ts_beach-shallow0/curve_out/45/0.png": [
+     0.5,
+     0,
+     256,
+     0,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_beach-shallow0/curve_out/135/0.png": [
+     0.5,
+     0,
+     320,
+     0,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_beach-shallow0/curve_out/225/0.png": [
+     0.5,
+     0,
+     384,
+     0,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_beach-shallow0/curve_out/315/0.png": [
+     0.5,
+     0,
+     448,
+     0,
+     64,
+     64
+    ]
+   }
+  },
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_beach-shallow0/straight/45/0.png": [
+     0.5,
+     0,
+     512,
+     0,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_beach-shallow0/straight/135/0.png": [
+     0.5,
+     0,
+     576,
+     0,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_beach-shallow0/straight/225/0.png": [
+     0.5,
+     0,
+     640,
+     0,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_beach-shallow0/straight/315/0.png": [
+     0.5,
+     0,
+     704,
+     0,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_beach0": {
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_beach0/straight/45/0.png": [
+     0.5,
+     0,
+     768,
+     0,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_beach0/straight/135/0.png": [
+     0.5,
+     0,
+     832,
+     0,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_beach0/straight/225/0.png": [
+     0.5,
+     0,
+     896,
+     0,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_beach0/straight/315/0.png": [
+     0.5,
+     0,
+     960,
+     0,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_deep0": {
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_deep0/straight/45/0.png": [
+     0.5,
+     0,
+     0,
+     64,
+     640,
+     320
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_deep0/straight/135/0.png": [
+     0.5,
+     0,
+     0,
+     384,
+     640,
+     320
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_deep0/straight/225/0.png": [
+     0.5,
+     0,
+     0,
+     704,
+     640,
+     320
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_deep0/straight/315/0.png": [
+     0.5,
+     1,
+     0,
+     0,
+     640,
+     320
+    ]
+   }
+  }
+ },
+ "ts_grass-beach0": {
+  "curve_in": {
+   "45": {
+    "content/gfx/base/moderate/ts_grass-beach0/curve_in/45/0.png": [
+     0.5,
+     1,
+     640,
+     0,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_grass-beach0/curve_in/135/0.png": [
+     0.5,
+     1,
+     704,
+     0,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_grass-beach0/curve_in/225/0.png": [
+     0.5,
+     1,
+     768,
+     0,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_grass-beach0/curve_in/315/0.png": [
+     0.5,
+     1,
+     832,
+     0,
+     64,
+     64
+    ]
+   }
+  },
+  "curve_out": {
+   "45": {
+    "content/gfx/base/moderate/ts_grass-beach0/curve_out/45/0.png": [
+     0.5,
+     1,
+     896,
+     0,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_grass-beach0/curve_out/135/0.png": [
+     0.5,
+     1,
+     960,
+     0,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_grass-beach0/curve_out/225/0.png": [
+     0.5,
+     1,
+     0,
+     320,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_grass-beach0/curve_out/315/0.png": [
+     0.5,
+     1,
+     64,
+     320,
+     64,
+     64
+    ]
+   }
+  },
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_grass-beach0/straight/45/0.png": [
+     0.5,
+     1,
+     128,
+     320,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_grass-beach0/straight/135/0.png": [
+     0.5,
+     1,
+     192,
+     320,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_grass-beach0/straight/225/0.png": [
+     0.5,
+     1,
+     256,
+     320,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_grass-beach0/straight/315/0.png": [
+     0.5,
+     1,
+     320,
+     320,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_grass0": {
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_grass0/straight/45/0.png": [
+     0.5,
+     1,
+     384,
+     320,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_grass0/straight/135/0.png": [
+     0.5,
+     1,
+     448,
+     320,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_grass0/straight/225/0.png": [
+     0.5,
+     1,
+     512,
+     320,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_grass0/straight/315/0.png": [
+     0.5,
+     1,
+     576,
+     320,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_grass1": {
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_grass1/straight/45/0.png": [
+     0.5,
+     1,
+     640,
+     320,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_grass1/straight/135/0.png": [
+     0.5,
+     1,
+     704,
+     320,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_grass1/straight/225/0.png": [
+     0.5,
+     1,
+     768,
+     320,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_grass1/straight/315/0.png": [
+     0.5,
+     1,
+     832,
+     320,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_grass2": {
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_grass2/straight/45/0.png": [
+     0.5,
+     1,
+     896,
+     320,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_grass2/straight/135/0.png": [
+     0.5,
+     1,
+     960,
+     320,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_grass2/straight/225/0.png": [
+     0.5,
+     1,
+     0,
+     384,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_grass2/straight/315/0.png": [
+     0.5,
+     1,
+     64,
+     384,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_grass3": {
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_grass3/straight/45/0.png": [
+     0.5,
+     1,
+     128,
+     384,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_grass3/straight/135/0.png": [
+     0.5,
+     1,
+     192,
+     384,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_grass3/straight/225/0.png": [
+     0.5,
+     1,
+     256,
+     384,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_grass3/straight/315/0.png": [
+     0.5,
+     1,
+     320,
+     384,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_grass4": {
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_grass4/straight/45/0.png": [
+     0.5,
+     1,
+     384,
+     384,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_grass4/straight/135/0.png": [
+     0.5,
+     1,
+     448,
+     384,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_grass4/straight/225/0.png": [
+     0.5,
+     1,
+     512,
+     384,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_grass4/straight/315/0.png": [
+     0.5,
+     1,
+     576,
+     384,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_grass5": {
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_grass5/straight/45/0.png": [
+     0.5,
+     1,
+     640,
+     384,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_grass5/straight/135/0.png": [
+     0.5,
+     1,
+     704,
+     384,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_grass5/straight/225/0.png": [
+     0.5,
+     1,
+     768,
+     384,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_grass5/straight/315/0.png": [
+     0.5,
+     1,
+     832,
+     384,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_shallow-deep0": {
+  "curve_in": {
+   "45": {
+    "content/gfx/base/moderate/ts_shallow-deep0/curve_in/45/0.png": [
+     0.5,
+     1,
+     896,
+     384,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_shallow-deep0/curve_in/135/0.png": [
+     0.5,
+     1,
+     960,
+     384,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_shallow-deep0/curve_in/225/0.png": [
+     0.5,
+     1,
+     0,
+     448,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_shallow-deep0/curve_in/315/0.png": [
+     0.5,
+     1,
+     64,
+     448,
+     64,
+     64
+    ]
+   }
+  },
+  "curve_out": {
+   "45": {
+    "content/gfx/base/moderate/ts_shallow-deep0/curve_out/45/0.png": [
+     0.5,
+     1,
+     128,
+     448,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_shallow-deep0/curve_out/135/0.png": [
+     0.5,
+     1,
+     192,
+     448,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_shallow-deep0/curve_out/225/0.png": [
+     0.5,
+     1,
+     256,
+     448,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_shallow-deep0/curve_out/315/0.png": [
+     0.5,
+     1,
+     320,
+     448,
+     64,
+     64
+    ]
+   }
+  },
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_shallow-deep0/straight/45/0.png": [
+     0.5,
+     1,
+     384,
+     448,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_shallow-deep0/straight/135/0.png": [
+     0.5,
+     1,
+     448,
+     448,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_shallow-deep0/straight/225/0.png": [
+     0.5,
+     1,
+     512,
+     448,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_shallow-deep0/straight/315/0.png": [
+     0.5,
+     1,
+     576,
+     448,
+     64,
+     64
+    ]
+   }
+  }
+ },
+ "ts_shallow0": {
+  "straight": {
+   "45": {
+    "content/gfx/base/moderate/ts_shallow0/straight/45/0.png": [
+     0.5,
+     1,
+     640,
+     448,
+     64,
+     64
+    ]
+   },
+   "135": {
+    "content/gfx/base/moderate/ts_shallow0/straight/135/0.png": [
+     0.5,
+     1,
+     704,
+     448,
+     64,
+     64
+    ]
+   },
+   "225": {
+    "content/gfx/base/moderate/ts_shallow0/straight/225/0.png": [
+     0.5,
+     1,
+     768,
+     448,
+     64,
+     64
+    ]
+   },
+   "315": {
+    "content/gfx/base/moderate/ts_shallow0/straight/315/0.png": [
+     0.5,
+     1,
+     832,
+     448,
+     64,
+     64
+    ]
+   }
+  }
+ }
+}

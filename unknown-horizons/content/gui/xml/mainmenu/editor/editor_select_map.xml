@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<VBox name="editor_select_map" fixed_size="320,465">
+	<Label text="Choose a map:" name="headline_choose_map_lbl" />
+	<ScrollArea fixed_size="300,140" name="map_list_area">
+		<ListBox fixed_size="300,140" name="map_list" is_focusable="0" />
+	</ScrollArea>
+	<Icon name="map_preview_minimap" fixed_size="128,128" is_focusable="0" />
+</VBox>
