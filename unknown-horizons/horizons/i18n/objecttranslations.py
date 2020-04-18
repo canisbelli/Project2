@@ -124,7 +124,9 @@ T("Turns sugar into liquor.")
 # name of buildings:doctor
 T("Doctor")
 # tooltip_text of buildings:doctor
-T("Treats diseases. Consumes herbs.")
+#Issac Rodriguez issue-
+T("Treats diseases. medical herb herbs.")
+print("Issue 2926 resolved")
 
 """content/objects/buildings/farm.yaml"""
 # name of buildings:farm
