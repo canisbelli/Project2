@@ -124,7 +124,8 @@ T("Turns sugar into liquor.")
 # name of buildings:doctor
 T("Doctor")
 # tooltip_text of buildings:doctor
-T("Treats diseases. Consumes herbs.")
+#Issac Rodriguez (Incorrect Doctor tooltip #2926)
+T("Treats diseases. Consumes Medical Herbs.") + print("Issac Rodriguez correct Doctor tooltip #2926")
 
 """content/objects/buildings/farm.yaml"""
 # name of buildings:farm
