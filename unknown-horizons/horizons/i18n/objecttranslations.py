@@ -392,7 +392,7 @@ T("Produces weapons out of iron.")
 # name of buildings:weaverstent
 T("Weaver's Hut")
 # tooltip_text of buildings:weaverstent
-T("Turns lamb wool into cloth.")
+T("Turns sheep wool into cloth.")
 
 """content/objects/buildings/windmill.yaml"""
 # name of buildings:windmill

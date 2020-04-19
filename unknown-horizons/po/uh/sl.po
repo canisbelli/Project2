@@ -3685,7 +3685,7 @@ msgstr "Predilčev šotor"
 #. tooltip_text of buildings:weaverstent
 #: horizons/i18n/objecttranslations.py:395
 #, fuzzy
-msgid "Turns lamb wool into cloth."
+msgid "Turns sheep wool into cloth."
 msgstr "ovčjo volno pretvori v blago."
 
 #. name of buildings:windmill
