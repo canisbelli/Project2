@@ -244,7 +244,7 @@ class SettingsDialog(PickBeltWidget, Window):
 		horizons.globals.fife.sound.setup_sound()
 	
 	def _apply_PlayHoverSound(self, ond, new):
-		horizons.globals.fife.set_file_setting('PlayHoverSound', new)
+		horizons.globals.fife.set_fife_setting('PlayHoverSound', new)
 
 	def _apply_VolumeMusic(self, old, new):
 		horizons.globals.fife.sound.set_volume_bgmusic(new)
