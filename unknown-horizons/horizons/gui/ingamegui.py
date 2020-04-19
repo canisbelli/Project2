@@ -671,7 +671,8 @@ class IngameGui(LivingObject):
 
 	def _on_gui_hover_action(self, msg):
 		"""Make a sound when the mouse hovers over a button"""
-		AmbientSoundComponent.play_special('refresh', position=None, gain=1)
+		if horizons.globals.fife.get_fife_setting("PlayHoverSound"):
+			AmbientSoundComponent.play_special('refresh', position=None, gain=1)
 
 	def _replace_hotkeys_in_widgets(self):
 		"""Replaces the `{key}` in the (translated) widget helptext with the actual hotkey"""
