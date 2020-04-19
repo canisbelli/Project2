@@ -231,7 +231,8 @@ class Gui:
 
 	def _on_gui_hover_action(self, msg):
 		"""Make a sound when the mouse hovers over a button"""
-		AmbientSoundComponent.play_special('refresh', position=None, gain=1)
+		if horizons.globals.fife.get_fife_setting("PlayHoverSound"):
+			AmbientSoundComponent.play_special('refresh', position=None, gain=1)
 
 	def show_editor_start_menu(self):
 		editor_start_menu = EditorStartMenu(self.windows)
