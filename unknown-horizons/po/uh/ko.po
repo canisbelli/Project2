@@ -3202,7 +3202,7 @@ msgstr "직공의 오두막"
 
 #. tooltip_text of buildings:weaverstent
 #: horizons/i18n/objecttranslations.py:395
-msgid "Turns lamb wool into cloth."
+msgid "Turns sheep wool into cloth."
 msgstr "양털을 옷감으로 만듭니다."
 
 #. name of buildings:windmill

@@ -3292,7 +3292,7 @@ msgstr "Chata tkacza"
 
 #. tooltip_text of buildings:weaverstent
 #: horizons/i18n/objecttranslations.py:395
-msgid "Turns lamb wool into cloth."
+msgid "Turns sheep wool into cloth."
 msgstr "Zamienia wełnę owczą w ubrania."
 
 #. name of buildings:windmill

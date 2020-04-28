@@ -3288,7 +3288,7 @@ msgstr "Weberhütte"
 
 #. tooltip_text of buildings:weaverstent
 #: horizons/i18n/objecttranslations.py:395
-msgid "Turns lamb wool into cloth."
+msgid "Turns sheep wool into cloth."
 msgstr "Verwebt Wolle zu Kleidung."
 
 #. name of buildings:windmill
