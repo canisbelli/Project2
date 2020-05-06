@@ -177,7 +177,7 @@ T("Raises sheep. Produces wool. Needs a farm.")
 
 """content/objects/buildings/fields/pigsty.yaml"""
 # name of buildings:fields:pigsty
-T("Pigsty")
+T("Pigpen")
 # tooltip_text of buildings:fields:pigsty
 T("Raises pigs. Needs a farm.")
 
