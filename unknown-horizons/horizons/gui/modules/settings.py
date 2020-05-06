@@ -96,6 +96,7 @@ class SettingsDialog(PickBeltWidget, Window):
 			Setting(UH, 'VolumeEffects', 'volume_effects', callback=self._apply_VolumeEffects,
 				on_change=self._on_slider_changed),
 			Setting(FIFE, 'PlaySounds', 'enable_sound', callback=self._apply_PlaySounds),
+			Setting(FIFE, 'PlayHoverSound', 'enable_hover_sound', callback=self._apply_PlayHoverSound),
 			Setting(UH, 'EdgeScrolling', 'edgescrolling'),
 			Setting(UH, 'CursorCenteredZoom', 'cursor_centered_zoom'),
 			Setting(UH, 'MiddleMousePan', 'middle_mouse_pan'),
@@ -241,6 +242,9 @@ class SettingsDialog(PickBeltWidget, Window):
 
 	def _apply_PlaySounds(self, old, new):
 		horizons.globals.fife.sound.setup_sound()
+	
+	def _apply_PlayHoverSound(self, ond, new):
+		horizons.globals.fife.set_fife_setting('PlayHoverSound', new)
 
 	def _apply_VolumeMusic(self, old, new):
 		horizons.globals.fife.sound.set_volume_bgmusic(new)
