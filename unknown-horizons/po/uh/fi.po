@@ -2785,7 +2785,7 @@ msgstr "Sairaala"
 
 #. tooltip_text of buildings:doctor
 #: horizons/i18n/objecttranslations.py:127
-msgid "Treats diseases. Consumes herbs."
+msgid "Treats diseases. Consumes Medical Herbs." #Issac Rodriguez
 msgstr "Parantaa sairaita. Käyttää yrttejä."
 
 #. name of buildings:farm

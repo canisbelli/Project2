@@ -2761,7 +2761,7 @@ msgstr "Lékař"
 
 #. tooltip_text of buildings:doctor
 #: horizons/i18n/objecttranslations.py:127
-msgid "Treats diseases. Consumes herbs."
+msgid "Treats diseases. Consumes Medical Herbs." #Issac Rodriguez
 msgstr "Léčí nemoci. Spotřebovává bylinky."
 
 #. name of buildings:farm
