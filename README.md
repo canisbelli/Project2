@@ -1,3 +1,8 @@
+Instructions to run:
+1.) Open unknown-horizons folder
+2.) run "run_uh.bat"
+
+
 # Project2
 COMP490 Senior Design
 Armand Cardoso
