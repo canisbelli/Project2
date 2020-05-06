@@ -3234,7 +3234,7 @@ msgstr "Dokumacı Çadırı"
 
 #. tooltip_text of buildings:weaverstent
 #: horizons/i18n/objecttranslations.py:395
-msgid "Turns lamb wool into cloth."
+msgid "Turns sheep wool into cloth."
 msgstr "Kuzu yününden kumaş yapar."
 
 #. name of buildings:windmill

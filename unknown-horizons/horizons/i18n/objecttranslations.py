@@ -124,9 +124,11 @@ T("Turns sugar into liquor.")
 # name of buildings:doctor
 T("Doctor")
 # tooltip_text of buildings:doctor
+
 #Issac Rodriguez issue-
 T("Treats diseases. medical herb herbs.")
 print("Issue 2926 resolved")
+
 
 """content/objects/buildings/farm.yaml"""
 # name of buildings:farm
@@ -178,7 +180,7 @@ T("Raises sheep. Produces wool. Needs a farm.")
 
 """content/objects/buildings/fields/pigsty.yaml"""
 # name of buildings:fields:pigsty
-T("Pigsty")
+T("Pigpen")
 # tooltip_text of buildings:fields:pigsty
 T("Raises pigs. Needs a farm.")
 
@@ -394,7 +396,7 @@ T("Produces weapons out of iron.")
 # name of buildings:weaverstent
 T("Weaver's Hut")
 # tooltip_text of buildings:weaverstent
-T("Turns lamb wool into cloth.")
+T("Turns sheep wool into cloth.")
 
 """content/objects/buildings/windmill.yaml"""
 # name of buildings:windmill

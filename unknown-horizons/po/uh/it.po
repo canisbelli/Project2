@@ -3281,7 +3281,7 @@ msgstr "Tenda del Tessitore"
 
 #. tooltip_text of buildings:weaverstent
 #: horizons/i18n/objecttranslations.py:395
-msgid "Turns lamb wool into cloth."
+msgid "Turns sheep wool into cloth."
 msgstr "Trasforma la lana di agnelli in abiti."
 
 #. name of buildings:windmill
